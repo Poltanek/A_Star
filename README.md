@@ -1,6 +1,6 @@
-# A* Pathfinding Algorithm 🚀
+# A* Pathfinding Algorithm 
 This repository contains an implementation of the A* Pathfinding Algorithm, a widely-used search algorithm for finding the shortest path in a grid or maze. The project is optimized for performance using a priority queue and a heuristic function for efficient navigation.
-## Features 🌟
+## Features 
 Optimized Performance:
 - Time Complexity: O(E + V log V) using a Min-Heap (priority queue).
 - Handles large grids efficiently with minimal redundant computations.
